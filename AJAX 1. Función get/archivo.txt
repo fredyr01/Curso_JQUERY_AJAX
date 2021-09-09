@@ -1,0 +1,2 @@
+Texto desde archivo.txt
+Hola soy fredy :D

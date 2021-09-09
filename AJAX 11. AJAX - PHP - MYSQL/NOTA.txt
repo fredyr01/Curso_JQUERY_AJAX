@@ -1,0 +1,2 @@
+En este ejercicio solo es para mostrar el json creado con el archivo empleado.php en la carpeta www de wamp
+carpeta CursoJQUERY-AJAX
